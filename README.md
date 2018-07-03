@@ -1,2 +1,0 @@
-# ReactRenderPropsSandbox
-Created with CodeSandbox
